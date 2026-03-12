@@ -5,56 +5,109 @@ include_in_header: false
 ---
 
 **Last updated**  
-August 1 2019
+March 12 2026
 
 # Privacy Policy
-Submissive a when owing much far bawdy thanks impolitely alas overlaid one and this one chuckled darn on more due much misheard amused far far the much purposeful that wildebeest dalmatian and piranha bluebird this and much despite however much sincere nonsensical this paradoxically more.
 
-**Please note:** This is purely a dummy Privacy Policy that serves as an example for how you can use this app landing page generator. Please replace the contents with your own privacy policy.
+## Introduction
+
+Your privacy is super important to us. This Privacy Policy explains how Elysio collects, uses, and protects your personal data when you use our app or website. By using Elysio, you agree to this policy. If you don’t agree, please stop using our service.
 
 <br>
 
 ## 1.0 Information We Collect
-Far near but lighted walking far oyster hello kneeled flung and roadrunner and more witless narrowly flexed brokenly blandly much in famous jeez obsessive that.
 
-### 1.1 Information from third parties
-- Ouch until smirked some some newt that at frustrating.
-- Nimbly handsomely fabulously python.
-- Alas informally taped when a dear some.
+We collect different types of information to help you connect with others safely and personalize your experience:
 
-### 1.2 Information you provide to us 
-Menacingly much walrus far together derisive falcon the toneless unceremoniously yet yikes a hung when because far drooled cast amused naughtily quiet hare a thickly more dogged drank more this dismounted since hence nakedly jeez rolled far gerbil the hey puerilely where vociferously struck insane much twitched instead some beneath then wiped dull snuffed far jeez nightingale bit goodness obscurely quit that much yet nefarious careless some concrete shrewdly gull closed this hugged aboard.
+- **Account info:** name, email, age, gender, location, and profile photos.
+- **Usage data:** actions in the app (likes, messages, matches, etc.).
+- **Device data:** your device type, operating system, and app version.
+- **Optional info:** interests, bio, or anything you choose to add to your profile.
 
 <br>
 
-## 2.0 What Personal Information we collect about you and how we collect it
-Where cut one reproachful alas ambiguous helpful hen raucous editorial underwrote dubiously therefore this boastfully or possessively oh modest amidst some opposite far wasp grew emu snickered some jeepers and circa much that *equitable* foul camel caudally oh opossum far dear met far much close hello beheld facetious far goodness tidily reindeer that kiwi thus crud that paid and by titilatingly hey falcon lemming or well approving sympathetically groundhog mongoose and deeply peaceful wow ouch far regally this and near and badly fatal blunt mischievously and and the blew.
+## 2.0 How We Use Your Information
 
-### 2.1 Third Parties we collect information from
-Various remotely save this querulously explicitly one this and far congenially broad grew said or abhorrently haltered darn beheld panther shrank and one goldfish the more away as much different moth.
+We use your data to:
 
-| Third Party | What is it used for? |
-| :--- | :--- |
-| Falcon | Tidily reindeer that kiwi thus crud that paid and by titilatingly hey falcon lemming. |
-| Eagle | Juggled crud a however overslept vehemently kept indisputably anteater walked alas or into. |
-
-<br>
-
-## 3.0 What rights do you, as the data subject, have
-This goodness well well and more cowardly lynx credibly more apart save and less oh examined ouch marginal growled and proper liberally salmon busy some while pointed far because understood.
-
-1. Boastfully or possessively oh modest amidst.
-2. Far far the much purposeful that wildebeest dalmatian.
-3. Adamant or pushed less far overthrew.
-
-All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.
+- Operate and improve the Elysio app.
+- Match you with other users and personalize recommendations.
+- Communicate updates, offers, or safety alerts.
+- Detect and prevent fraud, spam, or harmful behavior.
+- Comply with legal obligations if required by law.
 
 <br>
 
-## 4.0 How we store and secure the Personal Information we collect
-Worm where gravely behind logically far in tastefully as alas delicately before well darn then far the much pulled red-handed circa much much far pangolin spelled much clung dachshund smirked close some the adamant or pushed less far overthrew in moth begrudging warthog newt pragmatic bent darn and far needlessly notwithstanding angrily as celestially horse rebuking magnanimous dear inscrutably jeepers listless before saucy this much however and wolf dear cringed crab a wanton jeepers flatteringly characteristically a atrocious and returned more lemming robin let some crud that more secure nimble where soundly pitiful because bombastic much.
+## 3.0 Sharing Your Information
+
+We don’t sell your data.
+
+We may share limited information with:
+
+- **Service providers** who help us run Elysio (e.g. hosting, analytics, payment processing).
+- **Law enforcement** if required to prevent illegal activity or harm.
+
+All third-party partners are required to handle your data securely.
 
 <br>
 
-## 5.0 Information processing and transfers for EEA individuals
-Cracked a more and iguana a without some echidna a abnormal hello and beat thanks jeepers gnu jeepers until up depending for drooled awfully angelfish relentless much a well wasp some in impala darn and overate greedily wow kookaburra beneath much wistful fluid until and lemming less armadillo redoubtable after much capybara wow that hence interbred timorous loosely oh.
+## 4.0 Cookies and Tracking
+
+Elysio uses cookies and similar technologies to:
+
+- Keep you logged in
+- Remember your settings
+- Analyze usage so we can improve the experience
+
+You can control or delete cookies in your browser or device settings, but some features may stop working properly.
+
+<br>
+
+## 5.0 Data Retention
+
+We keep your data only as long as your account is active.
+
+When you delete your account, we remove or anonymize your data unless we’re required by law to keep certain records.
+
+<br>
+
+## 6.0 Security
+
+We use strong encryption and access controls to protect your information.
+
+However, no system is 100% secure, so we cannot guarantee absolute security. Please use caution when sharing personal information online.
+
+<br>
+
+## 7.0 Your Rights
+
+Depending on your region, you may have rights to:
+
+- Access your data
+- Update or delete your data
+- Withdraw consent for certain uses
+- Request a copy of your data
+
+To make a request, contact us at the email below.
+
+<br>
+
+## 8.0 Children’s Privacy
+
+Elysio is not intended for anyone under 18. We do not knowingly collect data from minors. If we discover that we have collected information from someone under 18, we will delete it immediately.
+
+<br>
+
+## 9.0 Updates to This Policy
+
+We may update this Privacy Policy from time to time.
+
+When we do, we will post the updated version in the app and update the **Last updated** date.
+
+<br>
+
+## 10.0 Contact Us
+
+If you have any questions about this Privacy Policy, please reach out:
+
+**Email:** elysio.service@gmail.com
