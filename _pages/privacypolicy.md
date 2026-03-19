@@ -110,4 +110,4 @@ When we do, we will post the updated version in the app and update the **Last up
 
 If you have any questions about this Privacy Policy, please reach out:
 
-**Email:** elysio.service@gmail.com
+**Email:** app.elysio@gmail.com
